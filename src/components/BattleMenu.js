@@ -20,7 +20,7 @@ class BattleMenu extends Component{
             pathname : '/BattleSelection',
             query : {
               battleType : 'glory'
-            }
+            }//Test change
           }} className="no-style color-white">FOR GLORY!</Link></div>
         </div>
       </div>
